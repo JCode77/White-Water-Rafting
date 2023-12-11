@@ -1,0 +1,91 @@
+h1 {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif, italic;
+    font-size: 2em;
+}
+.msg {
+    background-color: #6f7364;
+    line-height: 1.5em;
+    padding: 35px;
+  }
+#background {
+    height: 725px;
+}
+body {
+    background-color: #fcfbfb; 
+    text-align: center;
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    margin: 0;
+}
+header {
+    background-color:rgba(20,30,13, .7);
+}
+.book, .join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+    padding: 15px 30px;
+}
+.card-img {
+    border: 5px  solid #d9c2a3;
+}
+main section img {
+    box-sizing: border-box;
+}
+.book:hover {
+background-color: bisque;
+color: #000;
+} 
+.join:hover {
+background-color: bisque;
+color: #000;
+}
+footer {
+    background-color: rgb(212, 148, 68);
+}
+nav a:hover {
+    background-color: black;
+}
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}    
+.icon {
+    width: 80px;
+    text-align: center;
+    padding-top: 10px;
+}
+#hero-img {
+    width: 100%;
+}
+#rivers-img {
+    text-align: center;
+}
+nav a {
+    text-align: center;
+    color: #f9f8f6;
+    text-decoration: none;
+    padding: 35px;
+}    
+footer {
+    padding: 25px 50px;
+}
+footer p {
+    font-size: 1.2em;
+    color: #fbf9f8;
+}    
+footer p a:hover {
+    text-decoration: underline;
+    color: #faf8f5;
+}    
+footer .social img {
+    padding-top: 15px;
+}
